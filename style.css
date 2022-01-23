@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://images.wallpaperscraft.ru/image/single/derevo_sneg_minimalizm_198004_1920x1080.jpg);
+    background-size: auto cover;
+     position: fixed;
+}
+.login {
+    font-weight: normal;
+}
+div {    
+    font-size: 25px;
+    margin: 10px 0px 10px 0px;
+}
+.balance {    
+    margin: 10px 0px 0px 1700px;
+}
+div.My_style {    
+    margin: 100px 0px 0px 750px;
+}
+.My_name {
+    font-weight: 300;  
+    font-size: 25px;
+    font-style: italic;
+    width: 400px;
+}
+.My_email {           
+    font-size: 25px;   
+    margin: 0 0px 10px 0px;
+    width: 400px;
+}
+.My_message {    
+    font-size: 25px;
+    margin: 10px 0px 10px 0px;
+    width: 400px;
+    height: 200px;
+    resize: none;
+}
+.My_button {    
+    width: 400px;
+    font-size: 30px;
+}
+
+
+
